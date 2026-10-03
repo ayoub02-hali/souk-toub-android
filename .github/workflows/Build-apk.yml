@@ -14,7 +14,7 @@ jobs:
         run: |
           echo "$SOURCE" | base64 --decode > project.zip
           zip -FF project.zip --out fixed.zip
-          unzip -o fixed.zip .
+          unzip -o fixed.zip 
       - uses: actions/setup-java@v4
         with:
           distribution: temurin
