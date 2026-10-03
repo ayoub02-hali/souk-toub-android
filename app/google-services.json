@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551058218103",
+    "project_id": "souk-toub",
+    "storage_bucket": "souk-toub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551058218103:android:25fb139f098aa4e076fa72",
+        "android_client_info": {
+          "package_name": "com.souktoub.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdq0NwPTwnl8mC5CGlbPrmNdjh45Yi60k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
